@@ -24,3 +24,18 @@ node .\report.js
 ```bash
 npm i dotenv
 ```
+## newman repot photo
+<img width="863" height="335" alt="1 Screenshot 2026-03-17 162932" src="https://github.com/user-attachments/assets/521644f0-1f72-4664-8dfb-4b45d2a5c4b2" />
+
+<img width="847" height="394" alt="2 Screenshot 2026-03-17 163037" src="https://github.com/user-attachments/assets/848dbe29-e64e-4868-a3e3-42e6d9cdcf0c" />
+
+<img width="818" height="424" alt="3 Screenshot 2026-03-17 163237" src="https://github.com/user-attachments/assets/74b43592-35e3-4ac0-91ae-6fdaba49a1b3" />
+
+<img width="820" height="403" alt="4 Screenshot 2026-03-17 163411" src="https://github.com/user-attachments/assets/abb37581-6ce0-406a-ae66-ff208185549d" />
+
+<img width="914" height="464" alt="6 Screenshot 2026-03-17 163915" src="https://github.com/user-attachments/assets/400e2819-41d8-4e99-851c-c530e6783bf4" />
+<img width="795" height="438" alt="5 Screenshot 2026-03-17 163511" src="https://github.com/user-attachments/assets/1a27e387-1896-45e1-9d37-50f39295aa62" />
+
+
+
+
