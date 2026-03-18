@@ -25,8 +25,6 @@ node .\report.js
 ```bash
 npm i dotenv
 ```
-## newman repot photo
-<img width="863" height="335" alt="1 Screenshot 2026-03-17 162932" src="https://github.com/user-attachments/assets/521644f0-1f72-4664-8dfb-4b45d2a5c4b2" />
 
 
 # Auotmation photo
