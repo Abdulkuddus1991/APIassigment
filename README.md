@@ -12,3 +12,6 @@ npm init -y
 ```bash
 npm i newman
 ```
+```bash
+npm newman run [collection secret key]
+```
