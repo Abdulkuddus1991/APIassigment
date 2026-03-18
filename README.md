@@ -1,3 +1,4 @@
+[screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_23_41.webm](https://github.com/user-attachments/assets/5864eb35-f34b-4315-bead-84f6224ee6f7)
 
 ## Empolyee Api project with newman report
 ## About this project
@@ -33,6 +34,8 @@ npm i dotenv
 <img width="277" height="299" alt="3 Screenshot 2026-03-18 130155" src="https://github.com/user-attachments/assets/50c40f78-64f4-439d-b849-48c21f60fd08" />
 ## Api automation vedio
 [screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_15_27.webm](https://github.com/user-attachments/assets/87ac7455-6b64-4072-9970-564f1d1e093c)
+
+[screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_23_41.webm](https://github.com/user-attachments/assets/469ecc7e-3f63-40a4-aa96-6e8c295794e7)
 
 
 
