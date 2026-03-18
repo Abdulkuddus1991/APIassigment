@@ -18,3 +18,6 @@ npm newman run [collection secret key]
 ```bash
 npm i newman-reporter-htmlextra
 ```
+```bash
+node .\report.js
+```
