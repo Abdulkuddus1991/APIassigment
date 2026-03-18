@@ -9,3 +9,6 @@ This is empolyee api project so here create,update,screach and deleting data.
 ```bash
 npm init -y
 ```
+```bash
+npm i newman
+```
