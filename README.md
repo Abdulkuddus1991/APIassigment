@@ -28,5 +28,7 @@ npm i dotenv
 
 
 # Auotmation photo
+<img width="280" height="283" alt="1 Screenshot 2026-03-18 125943" src="https://github.com/user-attachments/assets/544aae1e-c1d3-4254-93e6-671d83a38b45" />
+
 
 
