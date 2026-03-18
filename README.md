@@ -36,6 +36,6 @@ npm i dotenv
 <img width="914" height="464" alt="6 Screenshot 2026-03-17 163915" src="https://github.com/user-attachments/assets/400e2819-41d8-4e99-851c-c530e6783bf4" />
 <img width="795" height="438" alt="5 Screenshot 2026-03-17 163511" src="https://github.com/user-attachments/assets/1a27e387-1896-45e1-9d37-50f39295aa62" />
 
-
+# Auotmation photo
 
 
