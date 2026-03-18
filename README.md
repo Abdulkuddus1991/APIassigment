@@ -21,3 +21,6 @@ npm i newman-reporter-htmlextra
 ```bash
 node .\report.js
 ```
+```bash
+npm i dotenv
+```
