@@ -5,9 +5,8 @@
 This is empolyee api project so here create,update,screach and deleting data.
 ## prerequisite
 -node.js
-## Api Dccumentatiom [Employ api ducumentation] (https://documenter.getpostman.com/view/51546673/2sBXigNZps)
+## Api Documentation [Employee api documentation](https://documenter.getpostman.com/view/51546673/2sBXigNZps)
 ## How to  Run the project
--Execute the command sequentailly
 ```bash
 npm init -y
 ```
@@ -22,7 +21,9 @@ npm i newman-reporter-htmlextra
 ```
 ```bash
 node .\report.js
+
 ```
+_ environment instalation
 ```bash
 npm i dotenv
 ```
