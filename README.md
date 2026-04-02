@@ -23,7 +23,7 @@ npm i newman-reporter-htmlextra
 node .\report.js
 
 ```
-## Environment instalation
+## Environment Installation
 ```bash
 npm i dotenv
 ```
