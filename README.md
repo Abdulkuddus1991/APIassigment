@@ -34,7 +34,7 @@ npm i dotenv
 <img width="280" height="200" alt="2 Screenshot 2026-03-18 130117" src="https://github.com/user-attachments/assets/0c7a0f3a-a248-4141-a081-c79c6f332146" />
 <img width="277" height="299" alt="3 Screenshot 2026-03-18 130155" src="https://github.com/user-attachments/assets/50c40f78-64f4-439d-b849-48c21f60fd08" />
 
-## Api automation vedio
+##  Automation vedio
 [screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_23_41.webm](https://github.com/user-attachments/assets/469ecc7e-3f63-40a4-aa96-6e8c295794e7)
 
 
