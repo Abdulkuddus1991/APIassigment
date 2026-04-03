@@ -35,9 +35,11 @@ npm i dotenv
 
 
 # Automation photo
-<img width="280" height="283" alt="1 Screenshot 2026-03-18 125943" src="https://github.com/user-attachments/assets/544aae1e-c1d3-4254-93e6-671d83a38b45" />
-<img width="280" height="200" alt="2 Screenshot 2026-03-18 130117" src="https://github.com/user-attachments/assets/0c7a0f3a-a248-4141-a081-c79c6f332146" />
-<img width="277" height="299" alt="3 Screenshot 2026-03-18 130155" src="https://github.com/user-attachments/assets/50c40f78-64f4-439d-b849-48c21f60fd08" />
+<img width="421" height="421" alt="1 Screenshot 2026-04-03 090144" src="https://github.com/user-attachments/assets/94106f0e-459c-452b-98b2-818d420a088a" />
+<img width="418" height="295" alt="2 Screenshot 2026-04-03 090316" src="https://github.com/user-attachments/assets/ba70fa4d-1a55-4fd3-b6f3-674f7cf6f4e6" />
+<img width="416" height="439" alt="3 Screenshot 2026-04-03 090404" src="https://github.com/user-attachments/assets/04f002ae-a410-48d4-aba5-265140e7b3b9" />
+
+
 
 ##  Automation vedio
 [screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_23_41.webm](https://github.com/user-attachments/assets/469ecc7e-3f63-40a4-aa96-6e8c295794e7)
