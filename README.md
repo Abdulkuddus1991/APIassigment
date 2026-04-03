@@ -4,7 +4,7 @@
 ## About this project
 This is empolyee api project so here create,update,screach and deleting data.
 ## Tools and Technologies
-# Postman → API request creation & testing
+## Postman → API request creation & testing
 Newman → Command-line execution & reporting
 JavaScript → Writing test script & assertions
 GitHUb → Version control & project presentation
