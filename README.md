@@ -41,8 +41,7 @@ npm i dotenv
 
 
 
-##  Automation vedio
-[screencast-lngaebamompmckcjpaenfkkdcadjigbo-2026.03.18-13_23_41.webm](https://github.com/user-attachments/assets/469ecc7e-3f63-40a4-aa96-6e8c295794e7)
+
 
 
 
