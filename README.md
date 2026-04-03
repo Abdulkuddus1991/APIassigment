@@ -4,7 +4,7 @@
 ## About this project
 This is empolyee api project so here create,update,screach and deleting data.
 ## Tools and Technologies
-Postman - API request creation & testing
+Postman → API request creation & testing
 ## prerequisite
 -node.js
 ## Api Documentation [Employee api documentation](https://documenter.getpostman.com/view/51546673/2sBXigNZps)
