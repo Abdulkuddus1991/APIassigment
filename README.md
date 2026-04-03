@@ -9,7 +9,7 @@ This is empolyee api project so here create,update,screach and deleting data.
 - JavaScript → Writing test script & assertions
 - GitHUb → Version control & project presentation
 ## prerequisite
--node.js
+- node.js
 ## Api Documentation [Employee api documentation](https://documenter.getpostman.com/view/51546673/2sBXigNZps)
 ## How to  Run the project
 ```bash
