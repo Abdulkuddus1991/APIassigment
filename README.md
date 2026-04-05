@@ -43,7 +43,11 @@ npm i dotenv
 # Automation vedio
 
 
-https://github.com/user-attachments/assets/41846755-0ff3-4ec0-bdd7-e10083ba9aa0
+
+
+https://github.com/user-attachments/assets/cca6ca1a-3120-4ea7-aff7-0d06d319f804
+
+
 
 
 
