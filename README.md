@@ -36,7 +36,9 @@ npm i dotenv
 
 # Automation photos
 <img width="417" height="415" alt="1 Screenshot 2026-04-06 164911" src="https://github.com/user-attachments/assets/6b67b62b-3fa5-4880-9b55-b453ccc6edf3" />
+
 <img width="409" height="292" alt="2 Screenshot 2026-04-06 165047" src="https://github.com/user-attachments/assets/d9281869-56d5-4563-9a39-985dd0e4e592" />
+
 <img width="415" height="205" alt="3 Screenshot 2026-04-06 165158" src="https://github.com/user-attachments/assets/ca00e4a1-9cd5-45bc-a055-9085ed85e39c" />
 
 
