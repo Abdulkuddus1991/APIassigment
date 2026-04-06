@@ -35,11 +35,16 @@ npm i dotenv
 
 
 # Automation photos
-<img width="417" height="415" alt="1 Screenshot 2026-04-06 164911" src="https://github.com/user-attachments/assets/6b67b62b-3fa5-4880-9b55-b453ccc6edf3" />
 
-<img width="409" height="292" alt="2 Screenshot 2026-04-06 165047" src="https://github.com/user-attachments/assets/d9281869-56d5-4563-9a39-985dd0e4e592" />
+<img width="417" height="418" alt="4 Screenshot 2026-04-06 192602" src="https://github.com/user-attachments/assets/e4615d51-9e5e-48b7-8506-1836d749517b" />
 
-<img width="415" height="205" alt="3 Screenshot 2026-04-06 165158" src="https://github.com/user-attachments/assets/ca00e4a1-9cd5-45bc-a055-9085ed85e39c" />
+<img width="416" height="296" alt="5 Screenshot 2026-04-06 192707" src="https://github.com/user-attachments/assets/c12d187a-04d3-4a5f-982b-f5550b83c8ee" />
+
+<img width="418" height="213" alt="6 Screenshot 2026-04-06 192752" src="https://github.com/user-attachments/assets/f2a0b539-c1af-47d4-be98-fd809229dc7b" />
+
+
+
+
 
 
 
