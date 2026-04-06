@@ -38,7 +38,8 @@ npm i dotenv
 
 <img width="417" height="418" alt="4 Screenshot 2026-04-06 192602" src="https://github.com/user-attachments/assets/627167b4-4fe3-46f3-8327-a42edcbef1ee" />
 
-<img width="421" height="298" alt="7 Screenshot 2026-04-06 193301" src="https://github.com/user-attachments/assets/09aebab7-d2ab-40f1-94f8-9babc0ee6c6d" />
+<img width="416" height="296" alt="5 Screenshot 2026-04-06 192707" src="https://github.com/user-attachments/assets/1e29799a-233b-47db-8f62-99b600c44215" />
+
 
 <img width="418" height="213" alt="6 Screenshot 2026-04-06 192752" src="https://github.com/user-attachments/assets/32dd03ec-a359-412f-af26-ec590a61f6ba" />
 
